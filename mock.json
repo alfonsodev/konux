@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Apahida",
+    "coordinates": [46.7944625,23.6737578],
+    "health": "good"
+  },
+  {
+    "id": 2,
+    "name": "Dezmir",
+    "coordinates": [46.7936595,23.604554],
+    "health": "warning"
+  },
+  {
+    "id": 3,
+    "name": "Apahida",
+    "coordinates": [46.7873352, 23.6725848],
+    "health": "good"
+  },
+  {
+    "id":4,
+    "name": "Clujana",
+    "coordinates": [46.7729508, 23.6365608],
+    "health": "bad"
+  },
+  {
+    "id": 5,
+    "name": "Cluj Napoca",
+    "coordinates": [46.778844, 23.5511966],
+    "health": "warning"
+  },
+  {
+    "id": 6,
+    "name": "Baciu Triaj",
+    "coordinates": [46.7838501, 23.5398804],
+    "health": "bad"
+  },
+  {
+    "id": 7,
+    "name": "Suceag",
+    "coordinates": [46.8088217, 23.4761142],
+    "health": "good"
+  },
+  {
+    "id": 8,
+    "name": "Mera",
+    "coordinates": [46.8088217, 23.4617509],
+    "health": "bad"
+  },
+  {
+    "id": 9,
+    "name": "Nădășel",
+    "coordinates": [46.8208091, 23.4063412],
+    "health": "warning"
+  }
+]
